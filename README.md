@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
-<h3 align="center">I am web and app developer</h3>
+<h3 align="center">I am web developer</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,javascript,python,node.js,SQL,mySQL**
+- 🌱 I’m currently wroking **React js,Express,Next.js,python,Postgres,mySQL,Rest api**
 
-- 💬 Ask me about **javascript,python,html,css,java**
+- 💬 Ask me about **javascript,python,html,css,React js,express**
 
 - 📫 How to reach me **anishdeveloper007@gmail.com**
 
