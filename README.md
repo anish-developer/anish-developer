@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">I am web developer</h3>
 
-- 🌱 I’m currently wroking **React js,Express,Next.js,python,Postgres,mySQL,Rest api**
+- 🌱 I’m currently wroking **React js,Express,Next.js,Postgres,mySQL,Rest api**
 
 - 💬 Ask me about **javascript,python,html,css,React js,express**
 
