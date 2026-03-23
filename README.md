@@ -32,6 +32,6 @@
 <br/>
 
 ### 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anishdeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anish-chauhan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel)](https://anish-chauhan.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:anishdeveloper007@gmail.com)
